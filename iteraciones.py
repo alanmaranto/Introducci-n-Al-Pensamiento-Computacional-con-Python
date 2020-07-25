@@ -1,4 +1,4 @@
-""" extern_counter = 0
+extern_counter = 0
 intern_counter = 0
 
 while extern_counter < 5:
@@ -10,5 +10,5 @@ while extern_counter < 5:
             break
     extern_counter += 1
     intern_counter = 0
- """
+
 
